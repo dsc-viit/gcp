@@ -12,7 +12,7 @@ body{
 .main{
     height: 100vh;
     width: 100%;
-    background: url('../images/Background.svg') center center no-repeat fixed;
+    background: url('../app/images/Background.svg') center center no-repeat fixed;
     background-size: auto 100%;
     position: absolute;
     top: 0px;
