@@ -10,15 +10,15 @@ $(document).ready(function(){
     // Link click actions
 
     $('.data').click(function(){
-        window.open('https://bit.ly/vitgcpdata')
+        window.open('https://dscviit.tech/register')
     })
 
     $('.android').click(function(){
-        window.open('https://bit.ly/vitgcpapp')
+        window.open('https://dscviit.tech/register')
     })
 
     $('.ml').click(function(){
-        window.open('https://bit.ly/vitgcpdata')
+        window.open('https://dscviit.tech/register')
     })
 
 })
