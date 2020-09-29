@@ -10,7 +10,7 @@ $(document).ready(function(){
     // Link click actions
 
     $('.data').click(function(){
-        window.open('bit.ly/gcpcc-student')
+        window.open('https://docs.google.com/forms/d/e/1FAIpQLScKoVbnlIQqRJeQRLKvvSVrGL9J30CmIng6UvaRQF6YUWTLBA/viewform')
     })
 
 //     $('.android').click(function(){
@@ -18,7 +18,7 @@ $(document).ready(function(){
 //     })
 
     $('.ml').click(function(){
-        window.open('bit.ly/gcpcc-student')
+        window.open('https://docs.google.com/forms/d/e/1FAIpQLScKoVbnlIQqRJeQRLKvvSVrGL9J30CmIng6UvaRQF6YUWTLBA/viewform')
     })
 
 })
