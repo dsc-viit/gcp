@@ -10,15 +10,15 @@ $(document).ready(function(){
     // Link click actions
 
     $('.data').click(function(){
-        window.open('https://dscviit.tech/register')
+        window.open('bit.ly/gcpcc-student')
     })
 
     $('.android').click(function(){
-        window.open('https://dscviit.tech/register')
+        window.open('bit.ly/gcpcc-student')
     })
 
     $('.ml').click(function(){
-        window.open('https://dscviit.tech/register')
+        window.open('bit.ly/gcpcc-student')
     })
 
 })
