@@ -13,9 +13,9 @@ $(document).ready(function(){
         window.open('bit.ly/gcpcc-student')
     })
 
-    $('.android').click(function(){
-        window.open('bit.ly/gcpcc-student')
-    })
+//     $('.android').click(function(){
+//         window.open('bit.ly/gcpcc-student')
+//     })
 
     $('.ml').click(function(){
         window.open('bit.ly/gcpcc-student')
